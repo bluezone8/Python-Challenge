@@ -1,0 +1,12 @@
+ELECTION RESULTS
+
+
+
+The total number of votes cast in the election is:3521001
+
+Candidate:Khan  Votes Received:2218231  Percent of Vote Total:63.0
+Candidate:Correy  Votes Received:704200  Percent of Vote Total:20.0
+Candidate:Li  Votes Received:492940  Percent of Vote Total:14.0
+Candidate:O'Tooley  Votes Received:105630  Percent of Vote Total:3.0
+
+Election Winner:Khan
