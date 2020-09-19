@@ -3,3 +3,4 @@ Initial thoughts about Python Challenge code
 2.  With Open Read csv file 
 3.  Find last index value for total months
 4.  Loop sum P/L
+5.  
