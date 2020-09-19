@@ -1,0 +1,7 @@
+Financial Analysis
+
+The total number of months in the period is:86
+The net total amount of profit/loss over the period is:$38382578
+The average change in profit/loss over the period is:$-2315.12
+The greatest increase in profit over the period is:$1926159inFeb-2012
+The greatest decrease in profit over the period is:$-2196167inSep-2013
